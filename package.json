@@ -1,0 +1,28 @@
+{
+  "name": "exam2",
+  "version": "1.0.0",
+  "description": "url shortener api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhmudak/techlarious_exam2.git"
+  },
+  "author": "techlarious_mhmud_exam2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhmudak/techlarious_exam2/issues"
+  },
+  "homepage": "https://github.com/mhmudak/techlarious_exam2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "notenv": "^2.0.3",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
